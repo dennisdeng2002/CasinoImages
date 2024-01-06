@@ -4,7 +4,7 @@ from os import scandir
 import subprocess
 
 input_paths = ['large', 'large']
-output_paths = ['small', 'medium']
+output_paths = ['medium', 'small']
 widths = [600, 300]
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
