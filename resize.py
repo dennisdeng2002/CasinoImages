@@ -3,9 +3,9 @@
 from os import scandir
 import subprocess
 
-input_paths = ['originals']
-output_paths = ['resized']
-widths = [400]
+input_paths = ['large']
+output_paths = ['small']
+widths = [300]
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
 for i, input_path in enumerate(input_paths):
