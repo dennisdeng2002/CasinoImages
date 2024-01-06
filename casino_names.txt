@@ -1,0 +1,154 @@
+CUKB, Rendezvous Brighton
+CUKE, Empire Casino
+CUKN, Alea Nottingham
+CUKM, Manchester235
+CUKG, Alea Glasgow
+GGAM, Genesis Demo
+FXW, Foxwoods Resort Casino
+MSC, Mohegan Sun
+MGMS, MGM Springfield
+HAC, Harrah's Atlantic City
+BORG, Borgata Hotel Casino & Spa
+TRAC, Tropicana AC
+RVCR, Rivers Casino & Resort, NY
+PARX, Parx Casino
+CATS, Resorts World Catskills
+SGHC, Rivers Casino Philadelphia
+PHLC, Live! Casino & Hotel Philadelphia
+BETH, Wind Creek Bethlehem
+MTAY, Mount Airy Casino
+DELP, Delaware Park Casino
+PORT, Rivers Portsmouth
+HPRY, Hollywood Perryville
+MSPD, Mohegan Sun Pocono
+TSTN, Turning Stone Resort Casino
+UBA, Horseshoe Baltimore
+MYLC, Maryland Live!
+TOGA, Tioga Downs Casino
+NHRB, MGM National Harbor Casino Resort
+DELL, Del Lago
+CTRS, Hollywood Charles Town
+DECL, The Casino @ Dania Beach
+MGRA, The Big Easy Poker Room
+ISLP, Harrah's Pompano Beach
+CSG, Seminole Coconut Creek
+HSG, Seminole Hard Rock Hollywood
+CLDR, Calder Casino
+CMIA, Casino Miami
+HLPC, Hialeah Park Casino
+MICC, Miccosukee Casino & Resort
+PTLC, Live! Casino Pittsburgh
+NIGA, Casino Niagara
+FALL, Fallsview Casino Resort
+RVRC, Rivers Casino Pittsburgh
+MRAC, Hollywood Casino at The Meadows Poker Room
+DBKC, Daytona Beach Poker Room
+ORNG, Orange City Poker
+ELCB, Elements Casino Brantford
+WHLI, Wheeling Island Hotel Casino Racetrack
+OXPR, Oxford Downs Poker Room
+TSC, Mardi Gras Casino & Resort
+TSG, Seminole Hard Rock Tampa
+JCLV, JACK Cleveland Casino
+HCHE, Harrah's Cherokee
+HCBS, Hollywood Casino Columbus
+WCL, Caesars Windsor
+GTWN, Hollywood Casino at Greektown
+MGDT, MGM Grand Detroit
+MCCH, MotorCity Casino Hotel
+HCTD, Hollywood Casino Toledo
+JCIN, Hard Rock Casino Cincinnati
+SECR, Soaring Eagle
+FIRE, FireKeepers Casino Hotel
+UIN, Horseshoe Indianapolis
+GNLK, Gun Lake Casino
+UEL, Caesars Southern Indiana
+FWSB, Four Winds South Bend
+AMEC, Ameristar East Chicago
+UHA, Horseshoe Hammond
+RCDP, Rivers Casino Des Plaines
+OCGB, Oneida Casino
+GVCE, Grand Victoria Casino Elgin
+HWAU, Hollywood Casino Aurora
+HGCB, Harrah's Gulf Coast
+BTBX, Boomtown Casino Biloxi
+BRV, Beau Rivage
+IPMS, IP Casino Resort Spa
+PRIV, Pearl River Resort
+ICGD, Century Casino Cape Girardeau
+HCGC, Hollywood Casino Gulf Coast
+LMRE, Horseshoe St. Louis
+BOOM, Boomtown Casino New Orleans
+NOR, Harrah's New Orleans
+UTU, Horseshoe Tunica
+HSTL, Hollywood STL Poker
+AMSC, Ameristar St. Charles
+AMVI, Ameristar Vicksburg
+LBBR, L'auberge Baton Rouge
+SCR, Saracen Casino Resort
+ACEP, Running Aces
+CNT, Canterbury Park Card Casino
+CUSH, Coushatta Casino
+ILC, Horseshoe Lake Charles
+GNLC, Golden Nugget Lake Charles
+UBC, Horseshoe Bossier City
+EDCR, Bally's Shreveport
+NKC, Harrah's Kansas City
+CHPO, Choctaw Pocola
+CCRS, Cherokee Casino West Siloam
+KCSW, Hollywood Kansas Speedway
+COU, Horseshoe Council Bluffs
+CCR, Hard Rock Tulsa
+CNC, River Spirit Casino
+CHCR, Choctaw Casino Durant
+WSTR, WinStar World Casino
+RIVW, Riverwind Casino
+BHMO, Monarch Black Hawk
+IBHP, Horseshoe Black Hawk
+AMBH, Ameristar Black Hawk
+GOGA, Bally's Black Hawk
+IOMG, Inn of the Mountain Gods
+SAND, Sandia Casino
+DDN, Desert Diamond Casino Tucson
+CDS, Casino Del Sol Resort
+CLIF, Club 52 Poker Room
+TSRC, Talking Stick Resort
+LNBU, Lone Butte
+WNHC, Wendover Nugget
+MTGB, Peppermill Casino Wendover
+DDWV, Desert Diamond Casino West Valley
+LAU, Harrah's Laughlin
+BSST, Boulder Station
+GNLV, Golden Nugget Las Vegas
+WYNN, Wynn Las Vegas
+VENE, The Venetian Resort Las Vegas
+BLV, Horseshoe Las Vegas
+MGM, MGM Grand 
+ARIA, Aria Resort & Casino
+BELA, Bellagio
+CLV, Caesars Palace
+MDLY, Mandalay Bay
+SPHC, South Point
+ORLN, The Orleans
+SFST, Santa Fe Station
+RRST, Red Rock Casino
+QRC, Quechan Casino
+ACCR, Agua Caliente Casino
+MCRS, Morongo Casino Resort & Spa
+SYCN, Sycuan
+JAMU, Jamul Casino
+LERC, Lake Elsinore Casino
+GSRC, Grand Sierra Resort
+ATLS, Atlantis Casino
+PEP, Peppermill Casino
+SLRC, Silver Legacy
+COMC, Commerce Casino
+BIKE, Parkwest Bicycle Casino
+HLT, Harvey's Lake Tahoe
+LCCR, Little Creek
+TCCR, Towers Casino
+CUCR, Chumash Casino Resort
+CAMC, Cameo Club Casino
+WRIV, Win-River
+GRTN, Graton Resort & Casino
+ELK, Elk Valley Casino
