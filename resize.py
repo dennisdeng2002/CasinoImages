@@ -3,7 +3,7 @@ import subprocess
 
 input_path = 'original'
 output_paths = ['small', 'medium']
-widths = [200, 600]
+widths = [300, 600]
 # convert original/ACCR.jpg -resize 600 medium/ACCR.jpg
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
