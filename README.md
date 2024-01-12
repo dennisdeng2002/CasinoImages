@@ -1,4 +1,4 @@
-This project hosts images for the casinos found on [bravopokerlive](https://www.bravopokerlive.com/venues)
+This project hosts images for the casinos found on [BravoPokerLive](https://www.bravopokerlive.com/venues)
 
 1. `extract_casinos.py`: used to extract the id / name / city from `casinos.json` into `casinos.txt`
 
