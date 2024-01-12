@@ -1,4 +1,4 @@
-This project hosts casino images for the various casinos found on https://www.bravopokerlive.com. The list of casinos was fetched using their API and is stored in `casinos.json`
+This project hosts images for the various casinos found on https://www.bravopokerlive.com. The list of casinos was fetched using their API and is stored in `casinos.json`
 
 1. `python3 extract_casinos.py`
     Used to extra the id / name / city of each casino into `casinos.txt`
