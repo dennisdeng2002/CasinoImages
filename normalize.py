@@ -11,5 +11,5 @@ def rename_jpeg_to_jpg_in_folder(folder_path):
                     os.rename(file_path, new_file_path)
                     print(f'File renamed from {file_path} to {new_file_path}')
 
-folder_path = 'large'
+folder_path = 'original'
 rename_jpeg_to_jpg_in_folder(folder_path)

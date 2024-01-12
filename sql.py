@@ -1,6 +1,6 @@
 from os import scandir
 
-input_path = 'large'
+input_path = 'original'
 sqlite_template = 'INSERT INTO casino_image (id) VALUES (\'{}\');\n'
 
 ids = []
