@@ -1,21 +1,21 @@
 from os import scandir
 import subprocess
 
-input_paths = ['original', 'original']
-output_paths = ['small', 'medium']
-widths = [300, 600]
+input_path = 'original'
+output_paths = ['icon', 'small', 'medium']
+widths = [100, 300, 600]
 # convert original/ACCR.jpg -resize 600 medium/ACCR.jpg
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
-for i, input_path in enumerate(input_paths):
+for i, output_path in enumerate(output_paths):
     total_count = 0
     for entry in scandir(input_path):
         if entry.path.endswith('.jpg') and entry.is_file():
             total_count = total_count + 1
 
     counter = 1
-    output_path, width = output_paths[i], widths[i]
-    print("Processing {}".format(output_path))
+    width = widths[i]
+    print("Processing {} images".format(output_path))
     for entry in scandir(input_path):
         if entry.path.endswith('.jpg') and entry.is_file():
             name = entry.name
