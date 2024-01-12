@@ -2,8 +2,8 @@ from os import scandir
 import subprocess
 
 input_path = 'original'
-output_paths = ['icon', 'small', 'medium']
-widths = [100, 300, 600]
+output_paths = ['small', 'medium']
+widths = [200, 600]
 # convert original/ACCR.jpg -resize 600 medium/ACCR.jpg
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
