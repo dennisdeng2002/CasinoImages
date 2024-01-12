@@ -4,6 +4,7 @@ import subprocess
 input_paths = ['original', 'original']
 output_paths = ['small', 'medium']
 widths = [300, 600]
+# convert original/ACCR.jpg -resize 600 medium/ACCR.jpg
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
 for i, input_path in enumerate(input_paths):

@@ -8,7 +8,7 @@ def extract_shortnames_from_json(json_file):
         for obj in data:
             map[obj['casinoID']] = [obj['shortName'], obj['city']]
 
-input_file = 'raw_casinos.json'
+input_file = 'casinos.json'
 extract_shortnames_from_json(input_file)
 
 with open("casinos.txt", 'w') as f:  
