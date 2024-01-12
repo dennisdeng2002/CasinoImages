@@ -1,11 +1,9 @@
-# convert originals/NHRB.jpg -resize 400 resized/NHRB.jpg
-
 from os import scandir
 import subprocess
 
-input_paths = ['large', 'large']
-output_paths = ['medium', 'small']
-widths = [600, 300]
+input_paths = ['original', 'original']
+output_paths = ['small', 'medium']
+widths = [300, 600]
 resize_template = 'convert {}/{} -resize {} {}/{}'
 
 for i, input_path in enumerate(input_paths):
@@ -16,6 +14,7 @@ for i, input_path in enumerate(input_paths):
 
     counter = 1
     output_path, width = output_paths[i], widths[i]
+    print("Processing {}".format(output_path))
     for entry in scandir(input_path):
         if entry.path.endswith('.jpg') and entry.is_file():
             name = entry.name
@@ -23,3 +22,5 @@ for i, input_path in enumerate(input_paths):
             subprocess.run(resize)
             print("Processed {}/{}".format(counter, total_count))
             counter = counter + 1
+    
+    print("")

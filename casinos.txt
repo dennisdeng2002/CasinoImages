@@ -1,0 +1,154 @@
+ACCR, Agua Caliente Casino, Rancho Mirage
+ACEP, Running Aces, Columbus
+AMBH, Ameristar Black Hawk, Black Hawk
+AMEC, Ameristar East Chicago, East Chicago
+AMSC, Ameristar St. Charles, St.Charles
+AMVI, Ameristar Vicksburg, Vicksburg
+ARIA, Aria Resort & Casino, Las Vegas 
+ATLS, Atlantis Casino, Reno
+BELA, Bellagio, Las Vegas
+BETH, Wind Creek Bethlehem, Bethlehem
+BHMO, Monarch Black Hawk, Black Hawk
+BIKE, Parkwest Bicycle Casino, Bell Gardens
+BLV, Horseshoe Las Vegas, Las Vegas
+BOOM, Boomtown Casino New Orleans, Harvey
+BORG, Borgata Hotel Casino & Spa, Atlantic City
+BRV, Beau Rivage, Biloxi
+BSST, Boulder Station, Las Vegas
+BTBX, Boomtown Casino Biloxi, Biloxi
+CAMC, Cameo Club Casino, Stockton
+CATS, Resorts World Catskills, Monticello
+CCR, Hard Rock Tulsa, Catoosa
+CCRS, Cherokee Casino West Siloam, West Siloam Springs
+CDS, Casino Del Sol Resort, Tucson
+CHCR, Choctaw Casino Durant, Durant 
+CHPO, Choctaw Pocola, Pocola
+CLDR, Calder Casino, Miami Gardens
+CLIF, Club 52 Poker Room, Camp Verde
+CLV, Caesars Palace, Las Vegas
+CMIA, Casino Miami, Miami
+CNC, River Spirit Casino, Tulsa
+CNT, Canterbury Park Card Casino, Shakopee
+COMC, Commerce Casino, Commerce
+COU, Horseshoe Council Bluffs, Council Bluffs
+CSG, Seminole Coconut Creek, Coconut Creek
+CTRS, Hollywood Charles Town,  Charles Town 
+CUCR, Chumash Casino Resort, Santa Ynez
+CUKB, Rendezvous Brighton, Brighton
+CUKE, Empire Casino, London
+CUKG, Alea Glasgow, Glasgow
+CUKM, Manchester235, Manchester
+CUKN, Alea Nottingham, Nottingham
+CUSH, Coushatta Casino, Kinder
+DBKC, Daytona Beach Poker Room, Daytona Beach 
+DDN, Desert Diamond Casino Tucson, Tucson
+DDWV, Desert Diamond Casino West Valley, Glendale
+DECL, The Casino @ Dania Beach, Dania Beach
+DELL, Del Lago, Waterloo
+DELP, Delaware Park Casino, Wilmington
+EDCR, Bally's Shreveport, Shreveport
+ELCB, Elements Casino Brantford, Brantford
+ELK, Elk Valley Casino, Crescent City
+FALL, Fallsview Casino Resort, Niagara Falls
+FIRE, FireKeepers Casino Hotel, Battle Creek
+FWSB, Four Winds South Bend, South Bend
+FXW, Foxwoods Resort Casino, Mashantucket
+GGAM, Genesis Demo, Spring
+GNLC, Golden Nugget Lake Charles,  Lake Charles
+GNLK, Gun Lake Casino, Wayland
+GNLV, Golden Nugget Las Vegas, Las Vegas
+GOGA, Bally's Black Hawk, Black Hawk
+GRTN, Graton Resort & Casino, Rohnert Park
+GSRC, Grand Sierra Resort, Reno
+GTWN, Hollywood Casino at Greektown, Detroit
+GVCE, Grand Victoria Casino Elgin, Elgin
+HAC, Harrah's Atlantic City, Atlantic City
+HCBS, Hollywood Casino Columbus, Columbus
+HCGC, Hollywood Casino Gulf Coast, Bay St Louis
+HCHE, Harrah's Cherokee, Cherokee
+HCTD, Hollywood Casino Toledo, Toledo
+HGCB, Harrah's Gulf Coast, Biloxi
+HLPC, Hialeah Park Casino, Hialeah
+HLT, Harvey's Lake Tahoe, Stateline
+HPRY, Hollywood Perryville, Perryville
+HSG, Seminole Hard Rock Hollywood, Hollywood
+HSTL, Hollywood STL Poker, Maryland Heights
+HWAU, Hollywood Casino Aurora, Aurora
+IBHP, Horseshoe Black Hawk, Black Hawk
+ICGD, Century Casino Cape Girardeau, Cape Girardeau
+ILC, Horseshoe Lake Charles, Westlake
+IOMG, Inn of the Mountain Gods, Mescalero
+IPMS, IP Casino Resort Spa, Biloxi
+ISLP, Harrah's Pompano Beach, Pompano Beach
+JAMU, Jamul Casino, Jamul Casino
+JCIN, Hard Rock Casino Cincinnati, Cincinnati
+JCLV, JACK Cleveland Casino, Cleveland
+KCSW, Hollywood Kansas Speedway, Kansas City
+LAU, Harrah's Laughlin, Laughlin
+LBBR, L'auberge Baton Rouge, Baton Rouge
+LCCR, Little Creek, Shelton
+LERC, Lake Elsinore Casino, Lake Elsinore
+LMRE, Horseshoe St. Louis, St. Louis
+LNBU, Lone Butte, Chandler
+MCCH, MotorCity Casino Hotel, Detroit
+MCRS, Morongo Casino Resort & Spa, Cabazon
+MDLY, Mandalay Bay, Las Vegas
+MGDT, MGM Grand Detroit, Detroit
+MGM, MGM Grand , Las Vegas
+MGMS, MGM Springfield, Springfield
+MGRA, The Big Easy Poker Room, Hallandale
+MICC, Miccosukee Casino & Resort, Miami
+MRAC, Hollywood Casino at The Meadows Poker Room, Washington
+MSC, Mohegan Sun, Uncasville
+MSPD, Mohegan Sun Pocono, Wilkes-Barre
+MTAY, Mount Airy Casino, Mount Pocono
+MTGB, Peppermill Casino Wendover, West Wendover
+MYLC, Maryland Live!, Hanover
+NHRB, MGM National Harbor Casino Resort, Oxon Hill
+NIGA, Casino Niagara, Niagara Falls
+NKC, Harrah's Kansas City, Kansas City
+NOR, Harrah's New Orleans, NEW ORLEANS
+OCGB, Oneida Casino, Green Bay
+ORLN, The Orleans, Las Vegas
+ORNG, Orange City Poker, Orange City
+OXPR, Oxford Downs Poker Room, Summerfield
+PARX, Parx Casino, Bensalem
+PEP, Peppermill Casino, Reno
+PHLC, Live! Casino & Hotel Philadelphia, Philadelphia
+PORT, Rivers Portsmouth, Portsmouth
+PRIV, Pearl River Resort, Philadelphia
+PTLC, Live! Casino Pittsburgh, Greensburg
+QRC, Quechan Casino, Winterhaven 
+RCDP, Rivers Casino Des Plaines, Des Plaines
+RIVW, Riverwind Casino, Norman
+RRST, Red Rock Casino, Las Vegas
+RVCR, Rivers Casino & Resort, NY, Schenectady
+RVRC, Rivers Casino Pittsburgh, Pittsburgh
+SAND, Sandia Casino, Albuquerque
+SCR, Saracen Casino Resort, Pine Bluff
+SECR, Soaring Eagle, Mt. Pleasant
+SFST, Santa Fe Station, Las Vegas
+SGHC, Rivers Casino Philadelphia, Philadelphia
+SLRC, Silver Legacy, Reno
+SPHC, South Point, Las Vegas
+SYCN, Sycuan, El Cajon
+TCCR, Towers Casino, Grass Valley
+TOGA, Tioga Downs Casino, Nichols
+TRAC, Tropicana AC, Atlantic City
+TSC, Mardi Gras Casino & Resort, Cross Lanes 
+TSG, Seminole Hard Rock Tampa, Tampa
+TSRC, Talking Stick Resort, Scottsdale
+TSTN, Turning Stone Resort Casino, Verona
+UBA, Horseshoe Baltimore, Baltimore
+UBC, Horseshoe Bossier City, Bossier City
+UEL, Caesars Southern Indiana, Elizabeth
+UHA, Horseshoe Hammond, Hammond
+UIN, Horseshoe Indianapolis, Shelbyville
+UTU, Horseshoe Tunica, Tunica Resorts
+VENE, The Venetian Resort Las Vegas, Las Vegas
+WCL, Caesars Windsor, Windsor
+WHLI, Wheeling Island Hotel Casino Racetrack, Wheeling
+WNHC, Wendover Nugget, West Wendover
+WRIV, Win-River, Redding
+WSTR, WinStar World Casino, Thackerville
+WYNN, Wynn Las Vegas, Las Vegas
