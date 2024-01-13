@@ -6,4 +6,6 @@ This project hosts images for the casinos found on [BravoPokerLive](https://www.
 
 3. `resize.py`: resize images using the [convert](https://legacy.imagemagick.org/script/convert.php) command
 
-4. `sql.py`: generate sql to insert the ids of all supported images into a database
+4. `validate.py`: 
+
+5. `sql.py`: generate sql to insert the ids of all supported images into a database
